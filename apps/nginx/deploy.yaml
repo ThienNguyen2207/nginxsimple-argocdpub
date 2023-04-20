@@ -18,7 +18,5 @@ spec:
         app: nginx
     spec:
       containers: 
-      - image: quay.io/thien2207/nginxsimple
+      - image: quay.io/thien2207/nginxsimple:latest
         name: nginx
-      imagePullSecrets:
-      - name: dockerhub
