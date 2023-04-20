@@ -18,8 +18,8 @@ spec:
       labels:
         app: nginx
     spec:
-      containers: dockerminhthien2207/nginx-simple:latest
-      - image: 
+      containers: 
+      - image: dockerminhthien2207/nginx-simple:latest
         name: nginx
         resources: {}
 ---
