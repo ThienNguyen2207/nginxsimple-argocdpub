@@ -18,5 +18,5 @@ spec:
         app: nginx
     spec:
       containers: 
-      - image: quay.io/thien2207/nginxsimple:	
+      - image: quay.io/thien2207/nginxsimple:91969e85fb2d8e0c3d1da7cd9ddecf8cfd1019cc		
         name: nginx 
